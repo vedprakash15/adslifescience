@@ -13,7 +13,7 @@
 		<spring.version>4.3.17.RELEASE</spring.version>
 		<hibernate.version>4.3.6.Final</hibernate.version>
 		<hibernate.validator>5.4.1.Final</hibernate.validator>
-		<c3p0.version>0.9.5.2</c3p0.version>
+		<c3p0.version>0.9.5.4</c3p0.version>
 		<jstl.version>1.2.1</jstl.version>
 		<servlets.version>3.1.0</servlets.version>
 		<jsp.version>2.3.1</jsp.version>
